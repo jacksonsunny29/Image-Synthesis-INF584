@@ -1,2 +1,2 @@
 # Image-Synthesis-INF584
-Differentiable Point-Based Radiance Fields for Efficient View Synthesis
+This project is an implementation of the paper https://gfx.cs.princeton.edu/pubs/Zhang_2022_DPR/diffpoint.pdf
