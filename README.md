@@ -1,2 +1,2 @@
 # Image-Synthesis-INF584
-Differentiable Surface Splatting for Point-based Geometry Processing
+Differentiable Point-Based Radiance Fields for Efficient View Synthesis
