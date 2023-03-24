@@ -29,12 +29,12 @@ def roation_phi_mat(p):
 
 #Translation Matrix
 def translation_mat(t):
-   trans_mat =([
+    trans_mat =torch.Tensor([
         [1,0,0,0],
         [0,1,0,0],
         [0,0,1,t],
         [0,0,0,1]
-    ])
+    ]).float()
 
     return trans_mat
 
